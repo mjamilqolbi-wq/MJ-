@@ -1,0 +1,6 @@
+{
+  "name": "KasirNusa — POS, Keuangan & Stok Real-Time",
+  "description": "Aplikasi kasir POS terintegrasi laporan keuangan real-time, manajemen stok otomatis dengan notifikasi stok menipis, dasbor analitik penjualan harian, integrasi kas & perbankan aman, serta program loyalitas member.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
